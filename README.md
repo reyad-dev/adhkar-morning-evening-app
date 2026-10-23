@@ -2,9 +2,9 @@
   <img src="repo-icon.svg" width="180" alt="Adhkar app icon" />
 </p>
 
-# Adhkar App — Morning & Evening Islamic Supplications | أذكار الصباح والمساء
+# Reyad Adhkar — Morning & Evening Adhkar App | أذكار الصباح والمساء
 
-A lightweight web app for **morning and evening Adhkar (أذكار الصباح والمساء)** with an elegant Arabic-friendly interface, progress tracking, repetition counters, and separate morning/evening visual modes.
+**Reyad Adhkar**, created by **Mohamed Reyad (@reyad-dev)**, is a lightweight web app for **morning and evening Adhkar (أذكار الصباح والمساء)** with an elegant Arabic-friendly interface, progress tracking, repetition counters, and separate morning/evening visual modes.
 
 This project is useful for anyone looking for a simple **Islamic Adhkar website**, **Arabic Dhikr app**, or a clean front-end example built as a single-page HTML application.
 
