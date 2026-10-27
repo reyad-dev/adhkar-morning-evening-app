@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="Adhkar app icon" />
 </p>
 
-# Reyad Adhkar — Morning & Evening Adhkar App | أذكار الصباح والمساء
+# Reyad Adhkar | Morning & Evening Adhkar App | أذكار الصباح والمساء
 
 **Reyad Adhkar**, created by **Mohamed Reyad (@reyad-dev)**, is a lightweight web app for **morning and evening Adhkar (أذكار الصباح والمساء)** with an elegant Arabic-friendly interface, progress tracking, repetition counters, and separate morning/evening visual modes.
 
